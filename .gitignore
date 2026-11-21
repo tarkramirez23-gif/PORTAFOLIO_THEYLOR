@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.angular/
+out-tsc/
+# Secretos: NUNCA subir al repositorio
+backend/config.local.php
+*.env

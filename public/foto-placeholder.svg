@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <rect width="300" height="300" fill="#131B2E"/>
+  <circle cx="150" cy="115" r="55" fill="#223049"/>
+  <path d="M50 280 Q150 190 250 280 Z" fill="#223049"/>
+  <text x="150" y="270" text-anchor="middle" font-family="monospace" font-size="14" fill="#55627D">TR</text>
+</svg>
